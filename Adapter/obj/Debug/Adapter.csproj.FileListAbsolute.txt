@@ -1,0 +1,12 @@
+C:\Users\demo\Desktop\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\demo\Desktop\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\demo\Desktop\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\demo\Desktop\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\demo\Desktop\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\demo\Desktop\Adapter\Adapter\obj\Debug\Adapter.pdb
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Mimarisi ve Tasarımı\VizeOdeviProje\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Mimarisi ve Tasarımı\VizeOdeviProje\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Mimarisi ve Tasarımı\VizeOdeviProje\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Mimarisi ve Tasarımı\VizeOdeviProje\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Mimarisi ve Tasarımı\VizeOdeviProje\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Mimarisi ve Tasarımı\VizeOdeviProje\Adapter\Adapter\obj\Debug\Adapter.pdb
